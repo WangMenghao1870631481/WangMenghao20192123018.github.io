@@ -35,13 +35,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-#####
-首先你需要注册一个 GitHub 账号，并在个人主界面里选择创建一个新的 Repository
+#####  github创建过程
+首先你需要注册一个 GitHub 账号，并在个人主界面里选择创建一个新的 Repository，然后对仓库信息进行设置。注意箭头标识的几个地方。仓库名必须是username.github.io的形式。
 ![image](https://user-images.githubusercontent.com/83194177/142753045-3107dbac-8c64-4dc6-ba9c-dfaeeb5cedd0.png)
-进入页面后，在 Repository name 的位置填写域名，格式是 username.GitHub.io. ；例如：WangMenghao1870631481.github.io
+注意：进入页面后，在 Repository name 的位置填写域名，格式是 username.GitHub.io. ；例如：WangMenghao1870631481.github.io
 ![image](https://user-images.githubusercontent.com/83194177/142753185-e2d57883-86b6-41c4-80e5-1642a3a53bfd.png)
 创建成功之后，点击右上角的 Settings
 ![image](https://user-images.githubusercontent.com/83194177/142753217-e9e4de49-45da-45c2-a442-70ca0cd14ef4.png)
+注意：找到Rename下的前面的框内的内容，要改成与我们自己的github一样的；一定要记得用户名与仓库名要一致
 找到 GitHub Pages 选项，选择一个 GitHub 官方提供的主题
 ![image](https://user-images.githubusercontent.com/83194177/142753250-e4075b93-9767-484b-9469-2762b11857a9.png)
 这里我们就随意选择一个主题 Cayman，来看看他的效果是什么样的
